@@ -8,4 +8,4 @@ build/
 
 .flutter-plugins
 
-flutter_firebase_auth_demo_android/app/google-services.json
+android/app/google-services.json
